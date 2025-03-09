@@ -1,0 +1,18 @@
+{
+    "65a2a392337bb": {
+        "name": "admin",
+        "password": "admin",
+        "email": "-",
+        "money": 0,
+        "cards": 17,
+        "id": "65a2a392337bb"
+    },
+    "65a6bc9ca56a8": {
+        "name": "murakozy armin",
+        "password": "armin",
+        "email": "murakozy.armin9@gmail.com",
+        "money": 1500,
+        "cards": 0,
+        "id": "65a6bc9ca56a8"
+    }
+}
